@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+.vs/
+bin/
+Debug/
+Release/
+obj/
+*.vcxproj.user
+*.pdb
